@@ -48,6 +48,19 @@ python world_track.py test -c model_weights/config.yaml \
     --ckpt model_weights/model-epoch=35-val_loss=6.50.ckpt
 ```
 
+## Front-End
+
+Instructions for building the browser interface with Webpack are available in
+[docs/frontend-build.md](docs/frontend-build.md). The static UI design is
+documented in Figma and can be viewed
+[here](https://www.figma.com/file/example/Birdseye-Design).
+
+### Running Tests
+Run the optional Python unit tests with:
+```bash
+pytest
+```
+
 ## Acknowledgement
 - [Simple-BEV](https://simple-bev.github.io): Adam W. Harley
 - [MVDeTr](https://github.com/hou-yz/MVDeTr): Yunzhong Hou
