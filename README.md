@@ -59,6 +59,8 @@ The interface uses a red and white color scheme reminiscent of the iconic
 bright green (`#00ff7f`).
 An example homepage for an emotion-aware AI is provided at
 [docs/ai-homepage.html](docs/ai-homepage.html) using this palette.
+For a personal homepage template, see
+[docs/yasuhide-satoh.html](docs/yasuhide-satoh.html).
 
 ### Running Tests
 Run the optional Python unit tests with:
