@@ -71,6 +71,7 @@ pytest
 ## Acknowledgement
 - [Simple-BEV](https://simple-bev.github.io): Adam W. Harley
 - [MVDeTr](https://github.com/hou-yz/MVDeTr): Yunzhong Hou
+- Fusion Ex Energy Solutions
 
 ## Citation
 ```bibtex
