@@ -25,4 +25,13 @@ npm run build
 ```
 The resulting files are placed in the `dist/` directory.
 
+## Color scheme
+The UI adopts a minimalist red and white palette inspired by
+*2001: A Space Odyssey*. Key colors:
+
+- Primary red: `#ff0000`
+- Background white: `#ffffff`
+
+Apply these colors in your CSS or design tool to match the aesthetic.
+
 For more details on our UI layout, see the [Figma design](https://www.figma.com/file/example/Birdseye-Design).
