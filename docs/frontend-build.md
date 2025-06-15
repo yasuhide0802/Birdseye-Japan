@@ -31,6 +31,7 @@ The UI adopts a minimalist red and white palette inspired by
 
 - Primary red: `#ff0000`
 - Background white: `#ffffff`
+- GFP green: `#00ff7f`
 
 Apply these colors in your CSS or design tool to match the aesthetic.
 

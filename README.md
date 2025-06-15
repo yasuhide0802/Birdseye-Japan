@@ -55,7 +55,8 @@ Instructions for building the browser interface with Webpack are available in
 documented in Figma and can be viewed
 [here](https://www.figma.com/file/example/Birdseye-Design).
 The interface uses a red and white color scheme reminiscent of the iconic
-**2001: A Space Odyssey** room.
+**2001: A Space Odyssey** room, with GFP protein elements highlighted in
+bright green (`#00ff7f`).
 
 ### Running Tests
 Run the optional Python unit tests with:
