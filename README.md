@@ -48,9 +48,57 @@ python world_track.py test -c model_weights/config.yaml \
     --ckpt model_weights/model-epoch=35-val_loss=6.50.ckpt
 ```
 
+## Front-End
+
+Instructions for building the browser interface with Webpack are available in
+[docs/frontend-build.md](docs/frontend-build.md). The static UI design is
+documented in Figma and can be viewed
+[here](https://www.figma.com/file/example/Birdseye-Design).
+The interface uses a red and white color scheme reminiscent of the iconic
+**2001: A Space Odyssey** room, with GFP protein elements highlighted in
+bright green (`#00ff7f`).
+An example homepage for an emotion-aware AI is provided at
+[docs/ai-homepage.html](docs/ai-homepage.html) using this palette.
+For a personal homepage template, see
+[docs/yasuhide-satoh.html](docs/yasuhide-satoh.html).
+
+### Running Tests
+Run the optional Python unit tests with:
+```bash
+pytest
+```
+
+## Quantum Example
+The `quantum_example.py` script demonstrates a small "quantum computer" using
+[Qiskit](https://qiskit.org/). Running it will create a Bell pair and measure
+the qubits:
+
+```bash
+python quantum_example.py
+```
+
+The script prints the measurement counts from the Qiskit simulator.
+
+## Future AI Initiatives
+The `super_ai_vision.py` script lists several speculative projects aimed at
+achieving superhuman intelligence:
+
+1. 超人間的知性を持ったAIの開発
+2. 巨大コンピュータネットワークの「目覚め」による超人間的知性の獲得
+3. ブレイン・マシン・インタフェースによる人間の強化
+4. バイオテクノロジーによる人間の生物的知性の増強
+
+Run the script to see a short description of each initiative:
+
+```bash
+python super_ai_vision.py
+```
+
 ## Acknowledgement
 - [Simple-BEV](https://simple-bev.github.io): Adam W. Harley
 - [MVDeTr](https://github.com/hou-yz/MVDeTr): Yunzhong Hou
+- Fusion Ex Energy Solutions
+- BitGlobal AI
 
 ## Citation
 ```bibtex
