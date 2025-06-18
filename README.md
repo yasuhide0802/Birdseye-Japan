@@ -68,6 +68,17 @@ Run the optional Python unit tests with:
 pytest
 ```
 
+## Quantum Example
+The `quantum_example.py` script demonstrates a small "quantum computer" using
+[Qiskit](https://qiskit.org/). Running it will create a Bell pair and measure
+the qubits:
+
+```bash
+python quantum_example.py
+```
+
+The script prints the measurement counts from the Qiskit simulator.
+
 ## Acknowledgement
 - [Simple-BEV](https://simple-bev.github.io): Adam W. Harley
 - [MVDeTr](https://github.com/hou-yz/MVDeTr): Yunzhong Hou
