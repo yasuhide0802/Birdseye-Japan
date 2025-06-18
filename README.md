@@ -79,6 +79,21 @@ python quantum_example.py
 
 The script prints the measurement counts from the Qiskit simulator.
 
+## Future AI Initiatives
+The `super_ai_vision.py` script lists several speculative projects aimed at
+achieving superhuman intelligence:
+
+1. 超人間的知性を持ったAIの開発
+2. 巨大コンピュータネットワークの「目覚め」による超人間的知性の獲得
+3. ブレイン・マシン・インタフェースによる人間の強化
+4. バイオテクノロジーによる人間の生物的知性の増強
+
+Run the script to see a short description of each initiative:
+
+```bash
+python super_ai_vision.py
+```
+
 ## Acknowledgement
 - [Simple-BEV](https://simple-bev.github.io): Adam W. Harley
 - [MVDeTr](https://github.com/hou-yz/MVDeTr): Yunzhong Hou
